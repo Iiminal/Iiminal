@@ -2,5 +2,3 @@
   
 <br></br><img src="https://komarev.com/ghpvc/?username=loathful&label=.✦&color=23365a&base=1170000&style=flat">
 
-<p align="center">
-<img width="300" height= "400" alt="image" src="https://files.catbox.moe/dc8v20.png" /> 
